@@ -1,0 +1,42 @@
+/* CSS Document */
+
+
+.box-one{
+
+	background-color:#0a3170;
+	width :auto;
+	height:100px;
+	padding: 7px;
+	border: 6px solid #0f2ad9;
+	text-align: center;
+	margin: -8px;
+	font-size: 24px;
+	
+    }
+
+.p{
+	color: #3566b5;
+    }
+
+
+.color{
+	color: #faf4de;
+    }
+.wbg{
+	color: #000000;
+}
+
+.one{
+
+	background-color:#2c13cf;
+	width :auto;
+	height: 30px;
+	padding: 4px;
+	border: 6px solid #0f2ad9;
+	text-align: center;
+	margin: -8px;
+	font-size: 10px;
+	
+    }
+
+
